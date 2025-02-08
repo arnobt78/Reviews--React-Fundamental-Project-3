@@ -5,7 +5,7 @@
 
 This project is a simple React application that displays user reviews. Users can navigate through the reviews, view a random review, and see the details of each reviewer.
 
-**Online Live:**
+**Online Live:** https://reviews-arnob.netlify.app/
 
 ## Setup
 
